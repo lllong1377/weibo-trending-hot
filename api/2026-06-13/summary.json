@@ -6,8 +6,8 @@
     "hot": 17609510,
     "ads": false,
     "readCount": 110000000,
-    "discussCount": 30000,
-    "origin": 6470
+    "discussCount": 32000,
+    "origin": 6520
   },
   {
     "title": "张碧晨淘汰",
@@ -25,9 +25,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D1%26c_type%3D31%26cate%3D5001%26band_rank%3D1%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D0%26lcate%3D5001%26q%3D%25E5%259B%259B%25E7%25BA%25A7%25E4%25BD%259C%25E6%2596%2587%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 4428983,
     "ads": false,
-    "readCount": 1630000000,
-    "discussCount": 780000,
-    "origin": 83000
+    "readCount": 1640000000,
+    "discussCount": 782000,
+    "origin": 84000
   },
   {
     "title": "四级",
@@ -36,7 +36,7 @@
     "hot": 3347147,
     "ads": false,
     "readCount": 2140000000,
-    "discussCount": 1193000,
+    "discussCount": 1195000,
     "origin": 242000
   },
   {
@@ -46,9 +46,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E4%B8%A4%E5%BC%B9%E4%B8%80%E6%98%9F%E9%93%B8%E4%B8%B0%E7%A2%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D2%26q%3D%2523%25E9%259D%2592%25E6%2598%25A5%25E5%258D%258E%25E7%25AB%25A0%25E4%25B8%25A4%25E5%25BC%25B9%25E4%25B8%2580%25E6%2598%259F%25E9%2593%25B8%25E4%25B8%25B0%25E7%25A2%2591%2523%26dgr%3D0%26realpos%3D3%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D3%26flag%3D1%26stream_entry_id%3D31%26display_time%3D1781319645%26pre_seqid%3D17813196454640185041369&launchid=10000360-page_H5",
     "hot": 2860469,
     "ads": false,
-    "readCount": 71887000,
-    "discussCount": 8666,
-    "origin": 217
+    "readCount": 73368000,
+    "discussCount": 8876,
+    "origin": 258
   },
   {
     "title": "四六级",
@@ -98,9 +98,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8E%9F%E6%9D%A5%E7%98%A6%E4%BA%86%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E8%81%AA%E6%98%8E&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D6%26c_type%3D31%26cate%3D5001%26band_rank%3D6%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D6%26lcate%3D5001%26q%3D%25E5%258E%259F%25E6%259D%25A5%25E7%2598%25A6%25E4%25BA%2586%25E7%259C%259F%25E7%259A%2584%25E4%25BC%259A%25E5%258F%2598%25E8%2581%25AA%25E6%2598%258E%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 1716766,
     "ads": false,
-    "readCount": 5859000,
-    "discussCount": 3053,
-    "origin": 973
+    "readCount": 7749000,
+    "discussCount": 4495,
+    "origin": 1291
   },
   {
     "title": "歌手补位",
@@ -119,8 +119,8 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D13%26q%3D%25E5%2587%25A1%25E4%25BA%25BA%25E4%25BF%25AE%25E4%25BB%2599%25E4%25BC%25A0%26dgr%3D0%26realpos%3D12%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D12%26flag%3D1%26stream_entry_id%3D31%26display_time%3D1781319645%26pre_seqid%3D17813196454640185041369&launchid=10000360-page_H5",
     "hot": 1347223,
     "ads": false,
-    "readCount": 1140000000,
-    "discussCount": 1395000,
+    "readCount": 1150000000,
+    "discussCount": 1399000,
     "origin": 71000
   },
   {
@@ -129,9 +129,19 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87+%E7%9C%8B%E4%B8%8D%E6%87%82&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D8%26c_type%3D31%26cate%3D5001%26band_rank%3D8%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D9%26lcate%3D5001%26q%3D%25E5%259B%259B%25E7%25BA%25A7%25E4%25BD%259C%25E6%2596%2587%2520%25E7%259C%258B%25E4%25B8%258D%25E6%2587%2582%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 1267275,
     "ads": false,
-    "readCount": 6221000,
-    "discussCount": 3610,
-    "origin": 825
+    "readCount": 7426000,
+    "discussCount": 4143,
+    "origin": 932
+  },
+  {
+    "title": "英格兰队遭盗窃只剩1个足球",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E9%81%AD%E7%9B%97%E7%AA%83%E5%8F%AA%E5%89%A91%E4%B8%AA%E8%B6%B3%E7%90%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B1%25E6%25A0%25BC%25E5%2585%25B0%25E9%2598%259F%25E9%2581%25AD%25E7%259B%2597%25E7%25AA%2583%25E5%258F%25AA%25E5%2589%25A91%25E4%25B8%25AA%25E8%25B6%25B3%25E7%2590%2583%2523%26dgr%3D0%26band_rank%3D40%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D41%26cate%3D5001%26realpos%3D40%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1781323387%26pre_seqid%3D17813233876490175788625&launchid=10000360-page_H5",
+    "hot": 1182166,
+    "ads": false,
+    "readCount": 11389000,
+    "discussCount": 3102,
+    "origin": 772
   },
   {
     "title": "何炅你不喜欢可以不说",
@@ -139,19 +149,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BD%95%E7%82%85%E4%BD%A0%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%AF%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D4%26cate%3D5001%26q%3D%2523%25E4%25BD%2595%25E7%2582%2585%25E4%25BD%25A0%25E4%25B8%258D%25E5%2596%259C%25E6%25AC%25A2%25E5%258F%25AF%25E4%25BB%25A5%25E4%25B8%258D%25E8%25AF%25B4%2523%26realpos%3D4%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D4%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1781316041%26pre_seqid%3D17813160409980181704506&launchid=10000360-page_H5",
     "hot": 1035004,
     "ads": false,
-    "readCount": 49741000,
-    "discussCount": 8904,
-    "origin": 1831
-  },
-  {
-    "title": "英格兰队遭盗窃只剩1个足球",
-    "category": "社会",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E9%81%AD%E7%9B%97%E7%AA%83%E5%8F%AA%E5%89%A91%E4%B8%AA%E8%B6%B3%E7%90%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E8%258B%25B1%25E6%25A0%25BC%25E5%2585%25B0%25E9%2598%259F%25E9%2581%25AD%25E7%259B%2597%25E7%25AA%2583%25E5%258F%25AA%25E5%2589%25A91%25E4%25B8%25AA%25E8%25B6%25B3%25E7%2590%2583%2523%26dgr%3D0%26band_rank%3D40%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D41%26cate%3D5001%26realpos%3D40%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1781323387%26pre_seqid%3D17813233876490175788625&launchid=10000360-page_H5",
-    "hot": 1003226,
-    "ads": false,
-    "readCount": 5537000,
-    "discussCount": 925,
-    "origin": 221
+    "readCount": 61029000,
+    "discussCount": 10000,
+    "origin": 2161
   },
   {
     "title": "加拿大1比1波黑",
@@ -168,11 +168,21 @@
     "category": "财经",
     "description": "@雷军 在直播中回应#雷军用私家车装600斤车厘子被指违规#：“是卡车送到实验场，在封闭道路分装给大家送了下货。” ​​​​",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%A3%85600%E6%96%A4%E8%BD%A6%E5%8E%98%E5%AD%90%E8%A2%AB%E6%8C%87%E8%BF%9D%E8%A7%84%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D5%26q%3D%2523%25E9%259B%25B7%25E5%2586%259B%25E5%259B%259E%25E5%25BA%2594%25E8%25A3%2585600%25E6%2596%25A4%25E8%25BD%25A6%25E5%258E%2598%25E5%25AD%2590%25E8%25A2%25AB%25E6%258C%2587%25E8%25BF%259D%25E8%25A7%2584%2523%26dgr%3D0%26realpos%3D5%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D5%26flag%3D1%26stream_entry_id%3D31%26display_time%3D1781319645%26pre_seqid%3D17813196454640185041369&launchid=10000360-page_H5",
-    "hot": 745123,
+    "hot": 777779,
     "ads": false,
-    "readCount": 12242000,
-    "discussCount": 3287,
-    "origin": 387
+    "readCount": 17048000,
+    "discussCount": 4211,
+    "origin": 459
+  },
+  {
+    "title": "九鹭非香把七时吉祥重新做成AI剧了",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D36%26stream_entry_id%3D31%26band_rank%3D35%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D35%26c_type%3D31%26q%3D%25E4%25B9%259D%25E9%25B9%25AD%25E9%259D%259E%25E9%25A6%2599%25E6%258A%258A%25E4%25B8%2583%25E6%2597%25B6%25E5%2590%2589%25E7%25A5%25A5%25E9%2587%258D%25E6%2596%25B0%25E5%2581%259A%25E6%2588%2590AI%25E5%2589%25A7%25E4%25BA%2586%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
+    "hot": 743266,
+    "ads": false,
+    "readCount": 2680000,
+    "discussCount": 1095,
+    "origin": 378
   },
   {
     "title": "上海通报男幼师溺亡",
@@ -226,6 +236,16 @@
     "origin": 372
   },
   {
+    "title": "韩庚鹿晗说朝鲜语",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%BA%9A%E9%B9%BF%E6%99%97%E8%AF%B4%E6%9C%9D%E9%B2%9C%E8%AF%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%259F%25A9%25E5%25BA%259A%25E9%25B9%25BF%25E6%2599%2597%25E8%25AF%25B4%25E6%259C%259D%25E9%25B2%259C%25E8%25AF%25AD%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D8%26stream_entry_id%3D31%26band_rank%3D7%26flag%3D1%26realpos%3D7%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 643501,
+    "ads": false,
+    "readCount": 2829000,
+    "discussCount": 224,
+    "origin": 80
+  },
+  {
     "title": "穿洞洞鞋记得坐垂直电梯",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E8%AE%B0%E5%BE%97%E5%9D%90%E5%9E%82%E7%9B%B4%E7%94%B5%E6%A2%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D6%26c_type%3D31%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D6%26q%3D%25E7%25A9%25BF%25E6%25B4%259E%25E6%25B4%259E%25E9%259E%258B%25E8%25AE%25B0%25E5%25BE%2597%25E5%259D%2590%25E5%259E%2582%25E7%259B%25B4%25E7%2594%25B5%25E6%25A2%25AF%26dgr%3D0%26band_rank%3D6%26filter_type%3Drealtimehot%26display_time%3D1781280048%26pre_seqid%3D178128004881502944497131&launchid=10000360-page_H5",
@@ -241,9 +261,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AD%8C%E6%89%8B2026%E8%A1%A5%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%AE%98%E5%AE%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D11%26stream_entry_id%3D31%26band_rank%3D10%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D10%26c_type%3D31%26q%3D%2523%25E6%25AD%258C%25E6%2589%258B2026%25E8%25A1%25A5%25E4%25BD%258D%25E6%25AD%258C%25E6%2589%258B%25E5%25AE%2598%25E5%25AE%25A3%2523%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 595698,
     "ads": false,
-    "readCount": 14341000,
-    "discussCount": 117000,
-    "origin": 381
+    "readCount": 22781000,
+    "discussCount": 250000,
+    "origin": 637
   },
   {
     "title": "韩国网友批Lisa世界杯开幕式歌曲低俗",
@@ -251,9 +271,19 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%89%B9Lisa%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E6%AD%8C%E6%9B%B2%E4%BD%8E%E4%BF%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26pos%3D12%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E7%25BD%2591%25E5%258F%258B%25E6%2589%25B9Lisa%25E4%25B8%2596%25E7%2595%258C%25E6%259D%25AF%25E5%25BC%2580%25E5%25B9%2595%25E5%25BC%258F%25E6%25AD%258C%25E6%259B%25B2%25E4%25BD%258E%25E4%25BF%2597%2523%26dgr%3D0%26realpos%3D11%26filter_type%3Drealtimehot%26cate%3D5001%26c_type%3D31%26band_rank%3D11%26flag%3D1%26stream_entry_id%3D31%26display_time%3D1781319645%26pre_seqid%3D17813196454640185041369&launchid=10000360-page_H5",
     "hot": 589574,
     "ads": false,
-    "readCount": 71456000,
-    "discussCount": 13000,
-    "origin": 2133
+    "readCount": 96631000,
+    "discussCount": 17000,
+    "origin": 2754
+  },
+  {
+    "title": "日本不高兴了",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%AB%98%E5%85%B4%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E4%25B8%258D%25E9%25AB%2598%25E5%2585%25B4%25E4%25BA%2586%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D9%26stream_entry_id%3D31%26band_rank%3D8%26flag%3D1%26realpos%3D8%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 584440,
+    "ads": false,
+    "readCount": 8459000,
+    "discussCount": 874,
+    "origin": 266
   },
   {
     "title": "四级翻译 一日为师终身为父",
@@ -261,9 +291,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91+%E4%B8%80%E6%97%A5%E4%B8%BA%E5%B8%88%E7%BB%88%E8%BA%AB%E4%B8%BA%E7%88%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D11%26c_type%3D31%26cate%3D5001%26band_rank%3D11%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D12%26lcate%3D5001%26q%3D%25E5%259B%259B%25E7%25BA%25A7%25E7%25BF%25BB%25E8%25AF%2591%2520%25E4%25B8%2580%25E6%2597%25A5%25E4%25B8%25BA%25E5%25B8%2588%25E7%25BB%2588%25E8%25BA%25AB%25E4%25B8%25BA%25E7%2588%25B6%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 582851,
     "ads": false,
-    "readCount": 6921000,
-    "discussCount": 3110,
-    "origin": 1389
+    "readCount": 9662000,
+    "discussCount": 4074,
+    "origin": 1787
   },
   {
     "title": "王安宇说当年很勉强才考上中传",
@@ -272,9 +302,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%AF%B4%E5%BD%93%E5%B9%B4%E5%BE%88%E5%8B%89%E5%BC%BA%E6%89%8D%E8%80%83%E4%B8%8A%E4%B8%AD%E4%BC%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D20%26cate%3D5001%26q%3D%2523%25E7%258E%258B%25E5%25AE%2589%25E5%25AE%2587%25E8%25AF%25B4%25E5%25BD%2593%25E5%25B9%25B4%25E5%25BE%2588%25E5%258B%2589%25E5%25BC%25BA%25E6%2589%258D%25E8%2580%2583%25E4%25B8%258A%25E4%25B8%25AD%25E4%25BC%25A0%2523%26realpos%3D19%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D19%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1781316041%26pre_seqid%3D17813160409980181704506&launchid=10000360-page_H5",
     "hot": 573971,
     "ads": false,
-    "readCount": 26882000,
-    "discussCount": 3035,
-    "origin": 674
+    "readCount": 31583000,
+    "discussCount": 3360,
+    "origin": 726
   },
   {
     "title": "六级",
@@ -292,9 +322,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%80%81%E6%9D%BF%E7%9F%A5%E9%81%93%E8%BF%99%E5%8F%B7%E5%90%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D23%26c_type%3D31%26cate%3D5001%26band_rank%3D23%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D24%26lcate%3D5001%26q%3D%2523%25E7%258E%258B%25E4%25BF%258A%25E5%2587%25AF%25E5%25B7%25A5%25E4%25BD%259C%25E5%25AE%25A4%25E8%2580%2581%25E6%259D%25BF%25E7%259F%25A5%25E9%2581%2593%25E8%25BF%2599%25E5%258F%25B7%25E5%2590%2597%2523%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 567719,
     "ads": false,
-    "readCount": 11230000,
-    "discussCount": 4428,
-    "origin": 1575
+    "readCount": 14781000,
+    "discussCount": 5319,
+    "origin": 1838
   },
   {
     "title": "上班人身上独有的疲惫气息",
@@ -354,9 +384,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B5%AA%E5%A7%90%E4%BA%94%E5%85%AC%E5%B0%8F%E8%80%83&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D16%26stream_entry_id%3D31%26band_rank%3D15%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D15%26c_type%3D31%26q%3D%25E6%25B5%25AA%25E5%25A7%2590%25E4%25BA%2594%25E5%2585%25AC%25E5%25B0%258F%25E8%2580%2583%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 528729,
     "ads": false,
-    "readCount": 1244000,
-    "discussCount": 1249,
-    "origin": 250
+    "readCount": 3581000,
+    "discussCount": 3132,
+    "origin": 550
   },
   {
     "title": "四级答案",
@@ -374,9 +404,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%9B%E7%BA%A7%E6%AE%B5%E8%90%BD%E5%8C%B9%E9%85%8D&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D18%26stream_entry_id%3D31%26band_rank%3D17%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D17%26c_type%3D31%26q%3D%25E5%259B%259B%25E7%25BA%25A7%25E6%25AE%25B5%25E8%2590%25BD%25E5%258C%25B9%25E9%2585%258D%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 503653,
     "ads": false,
-    "readCount": 2705000,
-    "discussCount": 2206,
-    "origin": 729
+    "readCount": 3356000,
+    "discussCount": 2653,
+    "origin": 829
   },
   {
     "title": "侯明昊 歌手",
@@ -396,9 +426,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E5%9B%BD4%E6%AF%941%E5%B7%B4%E6%8B%89%E5%9C%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D13%26c_type%3D31%26cate%3D5001%26band_rank%3D13%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D14%26lcate%3D5001%26q%3D%2523%25E7%25BE%258E%25E5%259B%25BD4%25E6%25AF%25941%25E5%25B7%25B4%25E6%258B%2589%25E5%259C%25AD%2523%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 501118,
     "ads": false,
-    "readCount": 6845000,
-    "discussCount": 4715,
-    "origin": 824
+    "readCount": 10832000,
+    "discussCount": 5634,
+    "origin": 943
   },
   {
     "title": "美国VS巴拉圭",
@@ -427,9 +457,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E5%9B%BD%E6%9A%82%E5%81%9CFABLE+5%E5%92%8CMythos+5%E8%AE%BF%E9%97%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D20%26c_type%3D31%26cate%3D5001%26band_rank%3D20%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D21%26lcate%3D5001%26q%3D%25E7%25BE%258E%25E5%259B%25BD%25E6%259A%2582%25E5%2581%259CFABLE%25205%25E5%2592%258CMythos%25205%25E8%25AE%25BF%25E9%2597%25AE%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 495487,
     "ads": false,
-    "readCount": 160000,
-    "discussCount": 76,
-    "origin": 36
+    "readCount": 268000,
+    "discussCount": 146,
+    "origin": 46
   },
   {
     "title": "医生说长期禁欲生殖系统真的会老",
@@ -438,9 +468,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E9%95%BF%E6%9C%9F%E7%A6%81%E6%AC%B2%E7%94%9F%E6%AE%96%E7%B3%BB%E7%BB%9F%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D21%26c_type%3D31%26cate%3D5001%26band_rank%3D21%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D22%26lcate%3D5001%26q%3D%2523%25E5%258C%25BB%25E7%2594%259F%25E8%25AF%25B4%25E9%2595%25BF%25E6%259C%259F%25E7%25A6%2581%25E6%25AC%25B2%25E7%2594%259F%25E6%25AE%2596%25E7%25B3%25BB%25E7%25BB%259F%25E7%259C%259F%25E7%259A%2584%25E4%25BC%259A%25E8%2580%2581%2523%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 495456,
     "ads": false,
-    "readCount": 23462000,
-    "discussCount": 1957,
-    "origin": 302
+    "readCount": 36737000,
+    "discussCount": 2827,
+    "origin": 444
   },
   {
     "title": "45岁安以轩状态",
@@ -448,9 +478,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2345%E5%B2%81%E5%AE%89%E4%BB%A5%E8%BD%A9%E7%8A%B6%E6%80%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D23%26stream_entry_id%3D31%26band_rank%3D22%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D22%26c_type%3D31%26q%3D%252345%25E5%25B2%2581%25E5%25AE%2589%25E4%25BB%25A5%25E8%25BD%25A9%25E7%258A%25B6%25E6%2580%2581%2523%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 495377,
     "ads": false,
-    "readCount": 9017000,
-    "discussCount": 1175,
-    "origin": 171
+    "readCount": 19996000,
+    "discussCount": 3608,
+    "origin": 375
   },
   {
     "title": "17岁的校草鹿晗",
@@ -459,9 +489,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%2317%E5%B2%81%E7%9A%84%E6%A0%A1%E8%8D%89%E9%B9%BF%E6%99%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D15%26cate%3D5001%26q%3D%252317%25E5%25B2%2581%25E7%259A%2584%25E6%25A0%25A1%25E8%258D%2589%25E9%25B9%25BF%25E6%2599%2597%2523%26realpos%3D14%26flag%3D1%26stream_entry_id%3D31%26band_rank%3D14%26dgr%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26display_time%3D1781316041%26pre_seqid%3D17813160409980181704506&launchid=10000360-page_H5",
     "hot": 495168,
     "ads": false,
-    "readCount": 18333000,
-    "discussCount": 5675,
-    "origin": 1071
+    "readCount": 22833000,
+    "discussCount": 6442,
+    "origin": 1127
   },
   {
     "title": "大爷查出肺癌结果是辣椒卡肺里了",
@@ -469,9 +499,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%A7%E7%88%B7%E6%9F%A5%E5%87%BA%E8%82%BA%E7%99%8C%E7%BB%93%E6%9E%9C%E6%98%AF%E8%BE%A3%E6%A4%92%E5%8D%A1%E8%82%BA%E9%87%8C%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D24%26stream_entry_id%3D31%26band_rank%3D23%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D23%26c_type%3D31%26q%3D%2523%25E5%25A4%25A7%25E7%2588%25B7%25E6%259F%25A5%25E5%2587%25BA%25E8%2582%25BA%25E7%2599%258C%25E7%25BB%2593%25E6%259E%259C%25E6%2598%25AF%25E8%25BE%25A3%25E6%25A4%2592%25E5%258D%25A1%25E8%2582%25BA%25E9%2587%258C%25E4%25BA%2586%2523%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 490834,
     "ads": false,
-    "readCount": 3987000,
-    "discussCount": 358,
-    "origin": 98
+    "readCount": 9706000,
+    "discussCount": 1205,
+    "origin": 276
   },
   {
     "title": "千万不要长时间戴耳机",
@@ -482,6 +512,56 @@
     "readCount": 9763000,
     "discussCount": 7266,
     "origin": 1730
+  },
+  {
+    "title": "任素汐原名叫任国涛",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%8E%9F%E5%90%8D%E5%8F%AB%E4%BB%BB%E5%9B%BD%E6%B6%9B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E4%25BB%25BB%25E7%25B4%25A0%25E6%25B1%2590%25E5%258E%259F%25E5%2590%258D%25E5%258F%25AB%25E4%25BB%25BB%25E5%259B%25BD%25E6%25B6%259B%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D14%26stream_entry_id%3D31%26band_rank%3D13%26flag%3D1%26realpos%3D13%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 468401,
+    "ads": false,
+    "readCount": 2405000,
+    "discussCount": 726,
+    "origin": 256
+  },
+  {
+    "title": "曾沛慈杂志",
+    "category": "明星-内地",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%9B%BE%E6%B2%9B%E6%85%88%E6%9D%82%E5%BF%97&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E6%259B%25BE%25E6%25B2%259B%25E6%2585%2588%25E6%259D%2582%25E5%25BF%2597%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D15%26stream_entry_id%3D31%26band_rank%3D14%26flag%3D1%26realpos%3D14%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 464201,
+    "ads": false,
+    "readCount": 2637000,
+    "discussCount": 8892,
+    "origin": 1549
+  },
+  {
+    "title": "老外第一次来中国不理解的事情",
+    "category": "情感",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%80%81%E5%A4%96%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%90%86%E8%A7%A3%E7%9A%84%E4%BA%8B%E6%83%85&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E8%2580%2581%25E5%25A4%2596%25E7%25AC%25AC%25E4%25B8%2580%25E6%25AC%25A1%25E6%259D%25A5%25E4%25B8%25AD%25E5%259B%25BD%25E4%25B8%258D%25E7%2590%2586%25E8%25A7%25A3%25E7%259A%2584%25E4%25BA%258B%25E6%2583%2585%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D18%26stream_entry_id%3D31%26band_rank%3D17%26flag%3D1%26realpos%3D17%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 448635,
+    "ads": false,
+    "readCount": 639000,
+    "discussCount": 319,
+    "origin": 83
+  },
+  {
+    "title": "六级词汇紧急版",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%85%AD%E7%BA%A7%E8%AF%8D%E6%B1%87%E7%B4%A7%E6%80%A5%E7%89%88&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E5%2585%25AD%25E7%25BA%25A7%25E8%25AF%258D%25E6%25B1%2587%25E7%25B4%25A7%25E6%2580%25A5%25E7%2589%2588%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D19%26stream_entry_id%3D31%26band_rank%3D18%26flag%3D1%26realpos%3D18%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 437990,
+    "ads": false,
+    "readCount": 135000,
+    "discussCount": 126,
+    "origin": 51
+  },
+  {
+    "title": "马嘉祺 透视裤",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%A9%AC%E5%98%89%E7%A5%BA+%E9%80%8F%E8%A7%86%E8%A3%A4&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E9%25A9%25AC%25E5%2598%2589%25E7%25A5%25BA%2520%25E9%2580%258F%25E8%25A7%2586%25E8%25A3%25A4%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D20%26stream_entry_id%3D31%26band_rank%3D19%26flag%3D1%26realpos%3D19%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 436041,
+    "ads": false,
+    "readCount": 1196000,
+    "discussCount": 2312,
+    "origin": 160
   },
   {
     "title": "傅诗淇可以跟成毅平番了",
@@ -504,6 +584,28 @@
     "origin": 1322
   },
   {
+    "title": "中国不需要也不可能复制SpaceX",
+    "category": "社会",
+    "description": "750亿美元，这个数字，超过许多国家一年的财政收入。就在昨晚，马斯克的SpaceX正式登陆资本市场。24年前，它还是一家连火箭都发不上天的创业公司；24年后，它募资750亿美元、上市市值高达1.77万亿美元（约合11.97万亿元人民币），创下全球IPO纪录。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%9C%80%E8%A6%81%E4%B9%9F%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%A4%8D%E5%88%B6SpaceX%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E4%25B9%259F%25E4%25B8%258D%25E5%258F%25AF%25E8%2583%25BD%25E5%25A4%258D%25E5%2588%25B6SpaceX%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D21%26stream_entry_id%3D31%26band_rank%3D20%26flag%3D1%26realpos%3D20%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 429498,
+    "ads": false,
+    "readCount": 1893000,
+    "discussCount": 188,
+    "origin": 41
+  },
+  {
+    "title": "西安一男子入室杀害前女友",
+    "category": "社会",
+    "description": "西安一男子入室杀害前女友，被害人母亲：分手后对方仍发骚扰信息，女儿曾感觉被跟踪",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%A5%BF%E5%AE%89%E4%B8%80%E7%94%B7%E5%AD%90%E5%85%A5%E5%AE%A4%E6%9D%80%E5%AE%B3%E5%89%8D%E5%A5%B3%E5%8F%8B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E8%25A5%25BF%25E5%25AE%2589%25E4%25B8%2580%25E7%2594%25B7%25E5%25AD%2590%25E5%2585%25A5%25E5%25AE%25A4%25E6%259D%2580%25E5%25AE%25B3%25E5%2589%258D%25E5%25A5%25B3%25E5%258F%258B%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D22%26stream_entry_id%3D31%26band_rank%3D21%26flag%3D1%26realpos%3D21%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 428247,
+    "ads": false,
+    "readCount": 1771000,
+    "discussCount": 207,
+    "origin": 45
+  },
+  {
     "title": "加拿大vs波黑",
     "category": "体育",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%B3%A2%E9%BB%91&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26cate%3D5001%26realpos%3D2%26q%3D%25E5%258A%25A0%25E6%258B%25BF%25E5%25A4%25A7vs%25E6%25B3%25A2%25E9%25BB%2591%26stream_entry_id%3D31%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D2%26pos%3D1%26c_type%3D31%26display_time%3D1781294444%26pre_seqid%3D17812944447800310143768&launchid=10000360-page_H5",
@@ -519,9 +621,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9C%9F%E5%B0%B1%E8%87%AA%E5%B7%B1%E5%8E%BB%E9%9D%A2%E8%AF%95%E4%B8%8A%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D17%26c_type%3D31%26cate%3D5001%26band_rank%3D17%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26pos%3D18%26lcate%3D5001%26q%3D%2523%25E4%25BE%25AF%25E6%2598%258E%25E6%2598%258A%25E7%259C%259F%25E5%25B0%25B1%25E8%2587%25AA%25E5%25B7%25B1%25E5%258E%25BB%25E9%259D%25A2%25E8%25AF%2595%25E4%25B8%258A%25E4%25BA%2586%2523%26display_time%3D1781323241%26pre_seqid%3D178132324165001893309149&launchid=10000360-page_H5",
     "hot": 363416,
     "ads": false,
-    "readCount": 10243000,
-    "discussCount": 6298,
-    "origin": 1253
+    "readCount": 14273000,
+    "discussCount": 7450,
+    "origin": 1401
   },
   {
     "title": "迪丽热巴品牌宠儿",
@@ -532,6 +634,16 @@
     "readCount": 6852000,
     "discussCount": 9936,
     "origin": 572
+  },
+  {
+    "title": "特朗普AI视频扮成日本忍者",
+    "category": "时事",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AEAI%E8%A7%86%E9%A2%91%E6%89%AE%E6%88%90%E6%97%A5%E6%9C%AC%E5%BF%8D%E8%80%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AEAI%25E8%25A7%2586%25E9%25A2%2591%25E6%2589%25AE%25E6%2588%2590%25E6%2597%25A5%25E6%259C%25AC%25E5%25BF%258D%25E8%2580%2585%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D27%26stream_entry_id%3D31%26band_rank%3D26%26flag%3D1%26realpos%3D26%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 356901,
+    "ads": false,
+    "readCount": 2865000,
+    "discussCount": 160,
+    "origin": 30
   },
   {
     "title": "乌克兰青年为救父痛打征兵人员",
@@ -545,6 +657,48 @@
     "origin": 31
   },
   {
+    "title": "金价银价大涨了",
+    "category": "财经",
+    "description": "当地时间12日，受美元走弱等因素影响，国际金银价格显著上涨。截至当天收盘，纽商所8月交割的黄金期货价格报每盎司4238.80美元，涨幅为3.03%；7月交割的白银期货价格报每盎司67.974美元，涨幅为6.21%。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E6%B6%A8%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E4%25BA%2586%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D29%26stream_entry_id%3D31%26band_rank%3D28%26flag%3D1%26realpos%3D28%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 353350,
+    "ads": false,
+    "readCount": 7727000,
+    "discussCount": 447,
+    "origin": 160
+  },
+  {
+    "title": "他用了4年的机油桶整洁如新",
+    "category": "社会",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BB%96%E7%94%A8%E4%BA%864%E5%B9%B4%E7%9A%84%E6%9C%BA%E6%B2%B9%E6%A1%B6%E6%95%B4%E6%B4%81%E5%A6%82%E6%96%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E4%25BB%2596%25E7%2594%25A8%25E4%25BA%25864%25E5%25B9%25B4%25E7%259A%2584%25E6%259C%25BA%25E6%25B2%25B9%25E6%25A1%25B6%25E6%2595%25B4%25E6%25B4%2581%25E5%25A6%2582%25E6%2596%25B0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D30%26stream_entry_id%3D31%26band_rank%3D29%26flag%3D1%26realpos%3D29%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 352781,
+    "ads": false,
+    "readCount": 2925000,
+    "discussCount": 575,
+    "origin": 63
+  },
+  {
+    "title": "男子同时交往7个白富美骗了数百万",
+    "category": "社会",
+    "description": "2025年10月19日上午，上海市普陀公安分局石泉派出所接到一女子报警，称自己和另外两名女子同时被一个叫李泽的男子以恋爱为名骗了很多钱，希望民警能够上门处置。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E4%BA%A4%E5%BE%807%E4%B8%AA%E7%99%BD%E5%AF%8C%E7%BE%8E%E9%AA%97%E4%BA%86%E6%95%B0%E7%99%BE%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2590%258C%25E6%2597%25B6%25E4%25BA%25A4%25E5%25BE%25807%25E4%25B8%25AA%25E7%2599%25BD%25E5%25AF%258C%25E7%25BE%258E%25E9%25AA%2597%25E4%25BA%2586%25E6%2595%25B0%25E7%2599%25BE%25E4%25B8%2587%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D47%26pos%3D48%26flag%3D1%26lcate%3D5001%26realpos%3D47%26display_time%3D1781312446%26pre_seqid%3D178131244609002830117154&launchid=10000360-page_H5",
+    "hot": 352289,
+    "ads": false,
+    "readCount": 15705000,
+    "discussCount": 2859,
+    "origin": 434
+  },
+  {
+    "title": "美国限制外国使用大模型",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%BE%8E%E5%9B%BD%E9%99%90%E5%88%B6%E5%A4%96%E5%9B%BD%E4%BD%BF%E7%94%A8%E5%A4%A7%E6%A8%A1%E5%9E%8B&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E7%25BE%258E%25E5%259B%25BD%25E9%2599%2590%25E5%2588%25B6%25E5%25A4%2596%25E5%259B%25BD%25E4%25BD%25BF%25E7%2594%25A8%25E5%25A4%25A7%25E6%25A8%25A1%25E5%259E%258B%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D32%26stream_entry_id%3D31%26band_rank%3D31%26flag%3D1%26realpos%3D31%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 352258,
+    "ads": false,
+    "readCount": 77000,
+    "discussCount": 56,
+    "origin": 30
+  },
+  {
     "title": "鹿晗素人时期就是爱豆完成体了",
     "category": "明星",
     "description": "鹿晗素人时期就是爱豆完成体了",
@@ -556,14 +710,24 @@
     "origin": 587
   },
   {
+    "title": "世界杯",
+    "category": "体育",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%96%E7%95%8C%E6%9D%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D13%26c_type%3D31%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D13%26q%3D%25E4%25B8%2596%25E7%2595%258C%25E6%259D%25AF%26dgr%3D0%26band_rank%3D13%26filter_type%3Drealtimehot%26display_time%3D1781280048%26pre_seqid%3D178128004881502944497131&launchid=10000360-page_H5",
+    "hot": 351256,
+    "ads": false,
+    "readCount": 71650000000,
+    "discussCount": 96163000,
+    "origin": 7020000
+  },
+  {
     "title": "演员李立群吐槽台湾看不到世界杯",
     "category": "社会",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%BC%94%E5%91%98%E6%9D%8E%E7%AB%8B%E7%BE%A4%E5%90%90%E6%A7%BD%E5%8F%B0%E6%B9%BE%E7%9C%8B%E4%B8%8D%E5%88%B0%E4%B8%96%E7%95%8C%E6%9D%AF%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D28%26stream_entry_id%3D31%26band_rank%3D27%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D27%26c_type%3D31%26q%3D%2523%25E6%25BC%2594%25E5%2591%2598%25E6%259D%258E%25E7%25AB%258B%25E7%25BE%25A4%25E5%2590%2590%25E6%25A7%25BD%25E5%258F%25B0%25E6%25B9%25BE%25E7%259C%258B%25E4%25B8%258D%25E5%2588%25B0%25E4%25B8%2596%25E7%2595%258C%25E6%259D%25AF%2523%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 349116,
     "ads": false,
-    "readCount": 5435000,
-    "discussCount": 367,
-    "origin": 69
+    "readCount": 13992000,
+    "discussCount": 1007,
+    "origin": 176
   },
   {
     "title": "张百乔小雪婚变传闻时间线",
@@ -596,15 +760,14 @@
     "origin": 2188
   },
   {
-    "title": "男子同时交往7个白富美骗了数百万",
-    "category": "社会",
-    "description": "2025年10月19日上午，上海市普陀公安分局石泉派出所接到一女子报警，称自己和另外两名女子同时被一个叫李泽的男子以恋爱为名骗了很多钱，希望民警能够上门处置。",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%94%B7%E5%AD%90%E5%90%8C%E6%97%B6%E4%BA%A4%E5%BE%807%E4%B8%AA%E7%99%BD%E5%AF%8C%E7%BE%8E%E9%AA%97%E4%BA%86%E6%95%B0%E7%99%BE%E4%B8%87%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2594%25B7%25E5%25AD%2590%25E5%2590%258C%25E6%2597%25B6%25E4%25BA%25A4%25E5%25BE%25807%25E4%25B8%25AA%25E7%2599%25BD%25E5%25AF%258C%25E7%25BE%258E%25E9%25AA%2597%25E4%25BA%2586%25E6%2595%25B0%25E7%2599%25BE%25E4%25B8%2587%2523%26c_type%3D31%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D47%26pos%3D48%26flag%3D1%26lcate%3D5001%26realpos%3D47%26display_time%3D1781312446%26pre_seqid%3D178131244609002830117154&launchid=10000360-page_H5",
-    "hot": 343463,
+    "title": "宋祖儿和妈妈做天津打卤面",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%AE%8B%E7%A5%96%E5%84%BF%E5%92%8C%E5%A6%88%E5%A6%88%E5%81%9A%E5%A4%A9%E6%B4%A5%E6%89%93%E5%8D%A4%E9%9D%A2&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%25E5%25AE%258B%25E7%25A5%2596%25E5%2584%25BF%25E5%2592%258C%25E5%25A6%2588%25E5%25A6%2588%25E5%2581%259A%25E5%25A4%25A9%25E6%25B4%25A5%25E6%2589%2593%25E5%258D%25A4%25E9%259D%25A2%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D35%26stream_entry_id%3D31%26band_rank%3D34%26flag%3D1%26realpos%3D34%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 343320,
     "ads": false,
-    "readCount": 13319000,
-    "discussCount": 2523,
-    "origin": 385
+    "readCount": 862000,
+    "discussCount": 405,
+    "origin": 97
   },
   {
     "title": "罗拉王能能陪看半熟恋人",
@@ -669,16 +832,6 @@
     "readCount": 7965000,
     "discussCount": 9903,
     "origin": 750
-  },
-  {
-    "title": "世界杯",
-    "category": "体育",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B8%96%E7%95%8C%E6%9D%AF&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D13%26c_type%3D31%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D13%26q%3D%25E4%25B8%2596%25E7%2595%258C%25E6%259D%25AF%26dgr%3D0%26band_rank%3D13%26filter_type%3Drealtimehot%26display_time%3D1781280048%26pre_seqid%3D178128004881502944497131&launchid=10000360-page_H5",
-    "hot": 330532,
-    "ads": false,
-    "readCount": 71650000000,
-    "discussCount": 96158000,
-    "origin": 7020000
   },
   {
     "title": "英格兰队世界杯物资被盗光了",
@@ -1072,6 +1225,16 @@
     "origin": 150
   },
   {
+    "title": "下半年婚运最强的星座",
+    "category": "星座",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A9%9A%E8%BF%90%E6%9C%80%E5%BC%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E4%25B8%258B%25E5%258D%258A%25E5%25B9%25B4%25E5%25A9%259A%25E8%25BF%2590%25E6%259C%2580%25E5%25BC%25BA%25E7%259A%2584%25E6%2598%259F%25E5%25BA%25A7%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D37%26stream_entry_id%3D31%26band_rank%3D36%26flag%3D1%26realpos%3D36%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 281415,
+    "ads": false,
+    "readCount": 7026000,
+    "discussCount": 1851,
+    "origin": 67
+  },
+  {
     "title": "胡彦斌 有编曲没嗓子",
     "category": "暂无",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E8%83%A1%E5%BD%A6%E6%96%8C+%E6%9C%89%E7%BC%96%E6%9B%B2%E6%B2%A1%E5%97%93%E5%AD%90&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D27%26c_type%3D31%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D27%26q%3D%25E8%2583%25A1%25E5%25BD%25A6%25E6%2596%258C%2520%25E6%259C%2589%25E7%25BC%2596%25E6%259B%25B2%25E6%25B2%25A1%25E5%2597%2593%25E5%25AD%2590%26dgr%3D0%26band_rank%3D27%26filter_type%3Drealtimehot%26display_time%3D1781280048%26pre_seqid%3D178128004881502944497131&launchid=10000360-page_H5",
@@ -1080,6 +1243,16 @@
     "readCount": 5368000,
     "discussCount": 3588,
     "origin": 977
+  },
+  {
+    "title": "Lisa歌词被批是纸醉金迷炫富内容",
+    "category": "明星-日韩",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Lisa%E6%AD%8C%E8%AF%8D%E8%A2%AB%E6%89%B9%E6%98%AF%E7%BA%B8%E9%86%89%E9%87%91%E8%BF%B7%E7%82%AB%E5%AF%8C%E5%86%85%E5%AE%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523Lisa%25E6%25AD%258C%25E8%25AF%258D%25E8%25A2%25AB%25E6%2589%25B9%25E6%2598%25AF%25E7%25BA%25B8%25E9%2586%2589%25E9%2587%2591%25E8%25BF%25B7%25E7%2582%25AB%25E5%25AF%258C%25E5%2586%2585%25E5%25AE%25B9%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D38%26stream_entry_id%3D31%26band_rank%3D37%26flag%3D1%26realpos%3D37%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 279848,
+    "ads": false,
+    "readCount": 3795000,
+    "discussCount": 408,
+    "origin": 82
   },
   {
     "title": "厄尔尼诺已确认形成",
@@ -1091,6 +1264,26 @@
     "readCount": 16113000,
     "discussCount": 2287,
     "origin": 307
+  },
+  {
+    "title": "张凌赫在直播间悄悄可爱",
+    "category": "暂无",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E6%82%84%E6%82%84%E5%8F%AF%E7%88%B1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E5%25BC%25A0%25E5%2587%258C%25E8%25B5%25AB%25E5%259C%25A8%25E7%259B%25B4%25E6%2592%25AD%25E9%2597%25B4%25E6%2582%2584%25E6%2582%2584%25E5%258F%25AF%25E7%2588%25B1%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D40%26stream_entry_id%3D31%26band_rank%3D39%26flag%3D1%26realpos%3D39%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 275902,
+    "ads": false,
+    "readCount": 39941000,
+    "discussCount": 28000,
+    "origin": 108
+  },
+  {
+    "title": "Prada认领李现",
+    "category": "明星",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23Prada%E8%AE%A4%E9%A2%86%E6%9D%8E%E7%8E%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523Prada%25E8%25AE%25A4%25E9%25A2%2586%25E6%259D%258E%25E7%258E%25B0%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D41%26stream_entry_id%3D31%26band_rank%3D40%26flag%3D1%26realpos%3D40%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 274532,
+    "ads": false,
+    "readCount": 5415000,
+    "discussCount": 6794,
+    "origin": 884
   },
   {
     "title": "小S和大女儿首度节目合体",
@@ -1166,6 +1359,17 @@
     "origin": 394
   },
   {
+    "title": "耀眼成绩",
+    "category": "电视剧",
+    "description": "关晓彤李昀锐《耀眼》成绩",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%80%80%E7%9C%BC%E6%88%90%E7%BB%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E8%2580%2580%25E7%259C%25BC%25E6%2588%2590%25E7%25BB%25A9%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D43%26stream_entry_id%3D31%26band_rank%3D42%26flag%3D1%26realpos%3D42%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 251859,
+    "ads": false,
+    "readCount": 3991000,
+    "discussCount": 1854,
+    "origin": 398
+  },
+  {
     "title": "歌手今晚淘汰三人",
     "category": "明星",
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%AD%8C%E6%89%8B%E4%BB%8A%E6%99%9A%E6%B7%98%E6%B1%B0%E4%B8%89%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D35%26c_type%3D31%26cate%3D5001%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26pos%3D35%26q%3D%2523%25E6%25AD%258C%25E6%2589%258B%25E4%25BB%258A%25E6%2599%259A%25E6%25B7%2598%25E6%25B1%25B0%25E4%25B8%2589%25E4%25BA%25BA%2523%26dgr%3D0%26band_rank%3D35%26filter_type%3Drealtimehot%26display_time%3D1781280048%26pre_seqid%3D178128004881502944497131&launchid=10000360-page_H5",
@@ -1235,16 +1439,6 @@
     "readCount": 35795000,
     "discussCount": 2177,
     "origin": 443
-  },
-  {
-    "title": "九鹭非香把七时吉祥重新做成AI剧了",
-    "category": "暂无",
-    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26pos%3D36%26stream_entry_id%3D31%26band_rank%3D35%26lcate%3D5001%26cate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D35%26c_type%3D31%26q%3D%25E4%25B9%259D%25E9%25B9%25AD%25E9%259D%259E%25E9%25A6%2599%25E6%258A%258A%25E4%25B8%2583%25E6%2597%25B6%25E5%2590%2589%25E7%25A5%25A5%25E9%2587%258D%25E6%2596%25B0%25E5%2581%259A%25E6%2588%2590AI%25E5%2589%25A7%25E4%25BA%2586%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
-    "hot": 232525,
-    "ads": false,
-    "readCount": 154000,
-    "discussCount": 59,
-    "origin": 35
   },
   {
     "title": "张百乔小雪感情经历",
@@ -1550,6 +1744,17 @@
     "readCount": 8862000,
     "discussCount": 180,
     "origin": 80
+  },
+  {
+    "title": "陈瑶何宣林饭量",
+    "category": "综艺-内地综艺",
+    "description": "陈瑶何宣林饭量。",
+    "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%99%88%E7%91%B6%E4%BD%95%E5%AE%A3%E6%9E%97%E9%A5%AD%E9%87%8F%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26q%3D%2523%25E9%2599%2588%25E7%2591%25B6%25E4%25BD%2595%25E5%25AE%25A3%25E6%259E%2597%25E9%25A5%25AD%25E9%2587%258F%2523%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D50%26stream_entry_id%3D31%26band_rank%3D49%26flag%3D1%26realpos%3D49%26display_time%3D1781330448%26pre_seqid%3D17813304483330323369467&launchid=10000360-page_H5",
+    "hot": 188622,
+    "ads": false,
+    "readCount": 1645000,
+    "discussCount": 231,
+    "origin": 108
   },
   {
     "title": "人一旦去过新疆",
@@ -2064,9 +2269,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%B7%E4%BD%91%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26is_ad_pos%3D1%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26adid%3D342342%26q%3D%2523%25E8%25BF%25AA%25E4%25B8%25BD%25E7%2583%25AD%25E5%25B7%25B4%25E5%25BE%25B7%25E4%25BD%2591%25E5%2585%25A8%25E7%2590%2583%25E5%2593%2581%25E7%2589%258C%25E4%25BB%25A3%25E8%25A8%2580%25E4%25BA%25BA%2523%26band_rank%3D4%26dgr%3D0%26topic_ad%3D1%26pos%3D3%26display_time%3D1781280069%26pre_seqid%3D178128006928802944494108&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 80088000,
-    "discussCount": 1146000,
-    "origin": 23000
+    "readCount": 89665000,
+    "discussCount": 1227000,
+    "origin": 25000
   },
   {
     "title": "上京东买荣耀600 学生加赠好礼",
@@ -2075,9 +2280,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%8A%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%A3%E8%80%80600+%E5%AD%A6%E7%94%9F%E5%8A%A0%E8%B5%A0%E5%A5%BD%E7%A4%BC%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26adid%3D342297%26c_type%3D31%26cate%3D5001%26topic_ad%3D1%26lcate%3D5001%26stream_entry_id%3D31%26is_ad_pos%3D1%26pos%3D3%26q%3D%2523%25E4%25B8%258A%25E4%25BA%25AC%25E4%25B8%259C%25E4%25B9%25B0%25E8%258D%25A3%25E8%2580%2580600%2520%25E5%25AD%25A6%25E7%2594%259F%25E5%258A%25A0%25E8%25B5%25A0%25E5%25A5%25BD%25E7%25A4%25BC%2523%26dgr%3D0%26band_rank%3D4%26filter_type%3Drealtimehot%26display_time%3D1781280073%26pre_seqid%3D17812800736710294448736&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 17597000,
-    "discussCount": 5592,
-    "origin": 117
+    "readCount": 19930000,
+    "discussCount": 5646,
+    "origin": 121
   },
   {
     "title": "梅西6到飞起",
@@ -2086,9 +2291,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%A2%85%E8%A5%BF6%E5%88%B0%E9%A3%9E%E8%B5%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26adid%3D340665%26topic_ad%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D3%26band_rank%3D4%26lcate%3D5001%26cate%3D5001%26is_ad_pos%3D1%26stream_entry_id%3D31%26q%3D%2523%25E6%25A2%2585%25E8%25A5%25BF6%25E5%2588%25B0%25E9%25A3%259E%25E8%25B5%25B7%2523%26dgr%3D0%26display_time%3D1781281302%26pre_seqid%3D178128130259601825819104&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 10038000,
-    "discussCount": 6645,
-    "origin": 178
+    "readCount": 11229000,
+    "discussCount": 6754,
+    "origin": 182
   },
   {
     "title": "球迷惊喜日京东拍卖限量球衣",
@@ -2097,9 +2302,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%90%83%E8%BF%B7%E6%83%8A%E5%96%9C%E6%97%A5%E4%BA%AC%E4%B8%9C%E6%8B%8D%E5%8D%96%E9%99%90%E9%87%8F%E7%90%83%E8%A1%A3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26adid%3D342345%26filter_type%3Drealtimehot%26band_rank%3D4%26pos%3D3%26lcate%3D5001%26cate%3D5001%26c_type%3D31%26topic_ad%3D1%26is_ad_pos%3D1%26stream_entry_id%3D31%26q%3D%2523%25E7%2590%2583%25E8%25BF%25B7%25E6%2583%258A%25E5%2596%259C%25E6%2597%25A5%25E4%25BA%25AC%25E4%25B8%259C%25E6%258B%258D%25E5%258D%2596%25E9%2599%2590%25E9%2587%258F%25E7%2590%2583%25E8%25A1%25A3%2523%26dgr%3D0%26display_time%3D1781281307%26pre_seqid%3D178128130773301825823148&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 19569000,
-    "discussCount": 4895,
-    "origin": 65
+    "readCount": 22350000,
+    "discussCount": 4914,
+    "origin": 68
   },
   {
     "title": "看球来两粒 益嚼就苏醒",
@@ -2108,9 +2313,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%9C%8B%E7%90%83%E6%9D%A5%E4%B8%A4%E7%B2%92+%E7%9B%8A%E5%9A%BC%E5%B0%B1%E8%8B%8F%E9%86%92%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D7%26cate%3D5001%26topic_ad%3D1%26lcate%3D5001%26stream_entry_id%3D31%26is_ad_pos%3D1%26q%3D%2523%25E7%259C%258B%25E7%2590%2583%25E6%259D%25A5%25E4%25B8%25A4%25E7%25B2%2592%2520%25E7%259B%258A%25E5%259A%25BC%25E5%25B0%25B1%25E8%258B%258F%25E9%2586%2592%2523%26dgr%3D0%26adid%3D341897%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D7%26display_time%3D1781283662%26pre_seqid%3D17812836626230341353782&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 14369000,
-    "discussCount": 60000,
-    "origin": 443
+    "readCount": 16817000,
+    "discussCount": 69000,
+    "origin": 3857
   },
   {
     "title": "原来鸿蒙有这么多宝藏开发者",
@@ -2119,9 +2324,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8E%9F%E6%9D%A5%E9%B8%BF%E8%92%99%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E5%AE%9D%E8%97%8F%E5%BC%80%E5%8F%91%E8%80%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D7%26stream_entry_id%3D31%26pos%3D7%26is_ad_pos%3D1%26q%3D%2523%25E5%258E%259F%25E6%259D%25A5%25E9%25B8%25BF%25E8%2592%2599%25E6%259C%2589%25E8%25BF%2599%25E4%25B9%2588%25E5%25A4%259A%25E5%25AE%259D%25E8%2597%258F%25E5%25BC%2580%25E5%258F%2591%25E8%2580%2585%2523%26adid%3D342152%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26cate%3D5001%26topic_ad%3D1%26display_time%3D1781287263%26pre_seqid%3D17812872633320111971238&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 17952000,
-    "discussCount": 1144,
-    "origin": 75
+    "readCount": 21896000,
+    "discussCount": 1423,
+    "origin": 81
   },
   {
     "title": "全新一代问界M9开启全国交付",
@@ -2181,9 +2386,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E8%BF%99%E5%B1%8A%E7%90%83%E8%B5%9B%E5%B8%A6%E7%81%AB%E4%BA%86%E9%98%BF%E6%99%AE%E7%91%9E%E9%A3%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26topic_ad%3D1%26adid%3D342310%26band_rank%3D7%26cate%3D5001%26is_ad_pos%3D1%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26q%3D%2523%25E8%25BF%2599%25E5%25B1%258A%25E7%2590%2583%25E8%25B5%259B%25E5%25B8%25A6%25E7%2581%25AB%25E4%25BA%2586%25E9%2598%25BF%25E6%2599%25AE%25E7%2591%259E%25E9%25A3%258E%2523%26pos%3D7%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1781323261%26pre_seqid%3D178132326164601893305107&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 135000,
-    "discussCount": 29,
-    "origin": 23
+    "readCount": 100000000,
+    "discussCount": 115,
+    "origin": 37
   },
   {
     "title": "年轻运动首选",
@@ -2201,9 +2406,9 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%A4%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A0%E5%BC%A0%E5%AE%B6%E7%95%8C%E6%99%AF%E5%8C%BA%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8A%93%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25B8%25A4%25E7%25BD%2591%25E6%25B0%2591%25E7%2594%25A8AI%25E7%25BC%2596%25E9%2580%25A0%25E5%25BC%25A0%25E5%25AE%25B6%25E7%2595%258C%25E6%2599%25AF%25E5%258C%25BA%25E8%25B0%25A3%25E8%25A8%2580%25E8%25A2%25AB%25E6%258A%2593%2523%26is_ad_pos%3D1%26adid%3D342286%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D7%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D7%26dgr%3D0%26display_time%3D1781323403%26pre_seqid%3D17813234034300175789285&launchid=10000360-page_H5",
     "hot": 0,
     "ads": true,
-    "readCount": 119000,
-    "discussCount": 16,
-    "origin": 7
+    "readCount": 1126000,
+    "discussCount": 87,
+    "origin": 17
   },
   {
     "title": "总书记叮嘱要保护好文化和自然遗产",
@@ -2211,8 +2416,8 @@
     "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%8F%AE%E5%98%B1%E8%A6%81%E4%BF%9D%E6%8A%A4%E5%A5%BD%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%23&stream_entry_id=51&isnewpage=1&extparam=seat%3D1%26cate%3D10103%26pos%3D0%26dgr%3D0%26filter_type%3Drealtimehot%26stream_entry_id%3D51%26c_type%3D51%26q%3D%2523%25E6%2580%25BB%25E4%25B9%25A6%25E8%25AE%25B0%25E5%258F%25AE%25E5%2598%25B1%25E8%25A6%2581%25E4%25BF%259D%25E6%258A%25A4%25E5%25A5%25BD%25E6%2596%2587%25E5%258C%2596%25E5%2592%258C%25E8%2587%25AA%25E7%2584%25B6%25E9%2581%2597%25E4%25BA%25A7%2523%26display_time%3D1781326848%26pre_seqid%3D17813268480030182591736&launchid=10000360-page_H5",
     "hot": 0,
     "ads": false,
-    "readCount": 1598000,
-    "discussCount": 300,
-    "origin": 52
+    "readCount": 2949000,
+    "discussCount": 357,
+    "origin": 70
   }
 ]
